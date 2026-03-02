@@ -42,6 +42,20 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outhsics&layout=compact&hide_border=true&title_color=0f172a&text_color=334155&bg_color=ffffff" alt="top-langs" />
 </p>
 
+## Contribution Visuals
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-snake-contrib/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-snake-contrib/github-snake.svg" />
+    <img alt="github contribution snake" src="./profile-snake-contrib/github-snake.svg" />
+  </picture>
+</p>
+
 ## Positioning
 
 I build practical AI systems from **prototype to production**:
@@ -53,14 +67,20 @@ I build practical AI systems from **prototype to production**:
 
 ## Flagship Projects
 
-| Project | What It Proves |
-|---|---|
-| [openfang-auto-clip](https://github.com/outhsics/openfang-auto-clip) | End-to-end AI clipping pipeline for long-to-short video repurposing |
-| [ai-skills-control-kit](https://github.com/outhsics/ai-skills-control-kit) | Unified skills operations across Codex/Claude/Cursor/Gemini/Antigravity |
-| [upload-test-file-generator](https://github.com/outhsics/upload-test-file-generator) | Cross-platform desktop utility delivered for QA upload testing |
-| [ui-diff-tool](https://github.com/outhsics/ui-diff-tool) | Design-vs-implementation diff workflow with AI-readable reports |
-| [TrendRadar](https://github.com/outhsics/TrendRadar) | Signal monitoring and trend intelligence automation |
-| [react-schema-form-lite](https://github.com/outhsics/react-schema-form-lite) | Reusable schema-driven dynamic form engine in React/TypeScript |
+<p align="center">
+  <a href="https://github.com/outhsics/openfang-auto-clip"><img src="https://github-readme-stats.vercel.app/api/pin/?username=outhsics&repo=openfang-auto-clip&hide_border=true&title_color=0f172a&icon_color=1d4ed8&text_color=334155&bg_color=ffffff" alt="openfang-auto-clip"></a>
+  <a href="https://github.com/outhsics/ai-skills-control-kit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=outhsics&repo=ai-skills-control-kit&hide_border=true&title_color=0f172a&icon_color=1d4ed8&text_color=334155&bg_color=ffffff" alt="ai-skills-control-kit"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/outhsics/upload-test-file-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=outhsics&repo=upload-test-file-generator&hide_border=true&title_color=0f172a&icon_color=1d4ed8&text_color=334155&bg_color=ffffff" alt="upload-test-file-generator"></a>
+  <a href="https://github.com/outhsics/ui-diff-tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=outhsics&repo=ui-diff-tool&hide_border=true&title_color=0f172a&icon_color=1d4ed8&text_color=334155&bg_color=ffffff" alt="ui-diff-tool"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/outhsics/TrendRadar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=outhsics&repo=TrendRadar&hide_border=true&title_color=0f172a&icon_color=1d4ed8&text_color=334155&bg_color=ffffff" alt="TrendRadar"></a>
+  <a href="https://github.com/outhsics/react-schema-form-lite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=outhsics&repo=react-schema-form-lite&hide_border=true&title_color=0f172a&icon_color=1d4ed8&text_color=334155&bg_color=ffffff" alt="react-schema-form-lite"></a>
+</p>
 
 ## Engineering Signal (2026-03-02)
 

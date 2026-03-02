@@ -1,0 +1,42 @@
+name: Profile Visual Assets
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-visuals:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Generate 3D contribution chart
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Generate snake animation (light/dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile-snake-contrib/github-snake.svg
+            profile-snake-contrib/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit generated visual assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib profile-snake-contrib || true
+          if git diff --cached --quiet; then
+            echo "No visual updates to commit."
+            exit 0
+          fi
+          git commit -m "chore: refresh profile visual assets"
+          git push
