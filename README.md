@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Terre%20(outhsics)&fontAlign=50&fontAlignY=35&color=0:0f172a,50:1d4ed8,100:0ea5e9&fontColor=ffffff&desc=AI%20Product%20Engineer%20%7C%20Automation%20Systems%20%7C%20Builder%20Mindset&descAlign=50&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Terre&fontAlign=50&fontAlignY=35&color=0:0f172a,50:1d4ed8,100:0ea5e9&fontColor=ffffff&desc=AI%20Product%20Engineer%20%7C%20Multi-agent%20Automation%20%7C%20Production-grade%20Tools&descAlign=50&descAlignY=55" />
 </div>
 
 <p align="center">
