@@ -56,6 +56,13 @@ Recommended pin set:
 - `TrendRadar`
 - `react-schema-form-lite`
 
+Manual update path:
+
+1. Open `https://github.com/outhsics`.
+2. Enter `Repositories`.
+3. Click `Customize your pins`.
+4. Uncheck archived repos and apply the recommended set.
+
 ## New Computer Recovery
 
 Keep these assets in GitHub:

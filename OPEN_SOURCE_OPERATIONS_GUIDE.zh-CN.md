@@ -56,6 +56,13 @@
 - `TrendRadar`
 - `react-schema-form-lite`
 
+手工更新路径：
+
+1. 打开 `https://github.com/outhsics`。
+2. 进入 `Repositories`。
+3. 点击 `Customize your pins`。
+4. 取消已归档仓库，按建议组合勾选并保存。
+
 ## 换电脑恢复方案
 
 将关键资产沉淀在 GitHub：
