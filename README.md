@@ -7,39 +7,39 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/outhsics"><img src="https://img.shields.io/github/followers/outhsics?style=for-the-badge&logo=github" alt="Followers"></a>
-  <a href="https://github.com/outhsics?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-73-111827?style=for-the-badge&logo=github" alt="Repos"></a>
-  <a href="https://github.com/outhsics"><img src="https://img.shields.io/badge/Location-Beijing%2C%20China-0ea5e9?style=for-the-badge" alt="Location"></a>
+  <a href="https://github.com/outhsics"><img src="./assets/badges/followers.svg" alt="Followers"></a>
+  <a href="https://github.com/outhsics?tab=repositories"><img src="./assets/badges/repos.svg" alt="Repos"></a>
+  <a href="https://github.com/outhsics"><img src="./assets/badges/location.svg" alt="Location"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-AI%20Product%20Engineer-0f172a?style=flat-square&logo=openai&logoColor=white" alt="Role">
-  <img src="https://img.shields.io/badge/Focus-Multi--Agent%20Automation-1d4ed8?style=flat-square" alt="Focus">
-  <img src="https://img.shields.io/badge/Stage-Production%20Delivery-0ea5e9?style=flat-square" alt="Stage">
-  <img src="https://img.shields.io/badge/Open%20Source-Builder-16a34a?style=flat-square&logo=github" alt="Open Source">
-  <img src="https://img.shields.io/badge/Hiring%20Signal-High-2563eb?style=flat-square" alt="Hiring Signal">
+  <img src="./assets/badges/role.svg" alt="Role">
+  <img src="./assets/badges/focus.svg" alt="Focus">
+  <img src="./assets/badges/stage.svg" alt="Stage">
+  <img src="./assets/badges/open_source.svg" alt="Open Source">
+  <img src="./assets/badges/hiring.svg" alt="Hiring Signal">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Codex-111827?style=flat-square" alt="Codex">
-  <img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square" alt="Claude">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" alt="Cursor">
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square" alt="Gemini">
+  <img src="./assets/badges/typescript.svg" alt="TypeScript">
+  <img src="./assets/badges/nodejs.svg" alt="Node.js">
+  <img src="./assets/badges/react.svg" alt="React">
+  <img src="./assets/badges/nextjs.svg" alt="Next.js">
+  <img src="./assets/badges/python.svg" alt="Python">
+  <img src="./assets/badges/github_actions.svg" alt="GitHub Actions">
+  <img src="./assets/badges/codex.svg" alt="Codex">
+  <img src="./assets/badges/claude.svg" alt="Claude">
+  <img src="./assets/badges/cursor.svg" alt="Cursor">
+  <img src="./assets/badges/gemini.svg" alt="Gemini">
 </p>
 
 ## Live Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/outhsics/openfang-auto-clip?style=flat-square&label=openfang-auto-clip%20stars" alt="openfang stars">
-  <img src="https://img.shields.io/github/stars/outhsics/ai-skills-control-kit?style=flat-square&label=skills-kit%20stars" alt="skills stars">
-  <img src="https://img.shields.io/github/stars/outhsics/ui-diff-tool?style=flat-square&label=ui-diff%20stars" alt="ui diff stars">
-  <img src="https://img.shields.io/github/last-commit/outhsics/outhsics?style=flat-square&label=profile%20updated" alt="profile updated">
+  <img src="./assets/badges/portfolio.svg" alt="Portfolio">
+  <img src="./assets/badges/active.svg" alt="Active">
+  <img src="./assets/badges/maintain.svg" alt="Maintain">
+  <img src="./assets/badges/updated.svg" alt="Updated">
 </p>
 
 ## Contribution Visuals
