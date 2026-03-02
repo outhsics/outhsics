@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/outhsics"><img src="https://img.shields.io/github/followers/outhsics?style=for-the-badge&logo=github" alt="Followers"></a>
-  <a href="https://github.com/outhsics?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-72-111827?style=for-the-badge&logo=github" alt="Repos"></a>
+  <a href="https://github.com/outhsics?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-73-111827?style=for-the-badge&logo=github" alt="Repos"></a>
   <a href="https://github.com/outhsics"><img src="https://img.shields.io/badge/Location-Beijing%2C%20China-0ea5e9?style=for-the-badge" alt="Location"></a>
 </p>
 
@@ -15,6 +15,7 @@ I build practical AI systems from **prototype to production**:
 - Multi-agent engineering workflow and skills governance
 - Content/media automation pipelines with delivery loops
 - Productized developer tools with operational visibility
+- Reliability-first delivery: reproducible scripts, maintainable architecture, and measurable outcomes
 
 ## Flagship Projects
 
