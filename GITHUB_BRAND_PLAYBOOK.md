@@ -77,3 +77,12 @@ Your top repositories should collectively prove:
 - Large number of stale demo/test repos kept unclassified
 - Public repos with unclear ownership/purpose
 
+## 8) Visual Style Strategy (Cool but Professional)
+
+- Use visual polish for first impression: hero banner, compact badges, clear section rhythm.
+- Avoid over-decoration that hurts trust: too many GIFs, long animations, noisy widgets.
+- Keep "cool" elements to top area only; keep project evidence clean and scannable.
+- Prioritize hiring signal over pure aesthetics:
+  - flagship projects
+  - recent shipping signal
+  - clear value statements
