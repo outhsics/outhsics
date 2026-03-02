@@ -35,6 +35,12 @@ Current focus:
 - Keep systems auditable and migration-friendly
 - Optimize for shipping speed with quality gates
 
+## Profile System
+
+- [GitHub Brand Playbook](./GITHUB_BRAND_PLAYBOOK.md)
+- [README Status Block Template](./templates/README_STATUS_BLOCK.md)
+- [Repo Bootstrap Checklist](./templates/REPO_BOOTSTRAP_CHECKLIST.md)
+
 ## 2026 Signal Upgrade
 
 - Profile repo and project narrative refreshed
