@@ -1,51 +1,51 @@
-# Terre (outhsics)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Terre%20(outhsics)&fontAlign=50&fontAlignY=35&color=0:0f172a,50:1d4ed8,100:0ea5e9&fontColor=ffffff&desc=AI%20Product%20Engineer%20%7C%20Automation%20Systems%20%7C%20Builder%20Mindset&descAlign=50&descAlignY=55" />
+</div>
 
-> AI Product Engineer focused on automation systems and practical developer tools.
+<p align="center">
+  <a href="https://github.com/outhsics"><img src="https://img.shields.io/github/followers/outhsics?style=for-the-badge&logo=github" alt="Followers"></a>
+  <a href="https://github.com/outhsics?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-72-111827?style=for-the-badge&logo=github" alt="Repos"></a>
+  <a href="https://github.com/outhsics"><img src="https://img.shields.io/badge/Location-Beijing%2C%20China-0ea5e9?style=for-the-badge" alt="Location"></a>
+</p>
 
-[![Followers](https://img.shields.io/github/followers/outhsics?style=for-the-badge&logo=github)](https://github.com/outhsics)
-[![Profile](https://img.shields.io/badge/Profile-outhsics-181717?style=for-the-badge&logo=github)](https://github.com/outhsics)
-[![Location](https://img.shields.io/badge/Location-Beijing%2C%20China-0A66C2?style=for-the-badge)](https://github.com/outhsics)
+## Positioning
 
-## What I Do
+I build practical AI systems from **prototype to production**:
 
-I build AI-powered systems that move from idea to production with clear workflows, repeatable operations, and observable outcomes.
+- Multi-agent engineering workflow and skills governance
+- Content/media automation pipelines with delivery loops
+- Productized developer tools with operational visibility
 
-Current focus:
+## Flagship Projects
 
-- Multi-agent engineering workflows
-- AI content and media automation pipelines
-- Practical full-stack tools for teams and creators
-- CLI-first operations with dashboard visibility
-
-## Highlight Projects
-
-| Project | Role / Value |
+| Project | What It Proves |
 |---|---|
-| [openfang-auto-clip](https://github.com/outhsics/openfang-auto-clip) | Automated AI video clipping pipeline for content repurposing |
-| [ai-skills-control-kit](https://github.com/outhsics/ai-skills-control-kit) | Standardized skills operations across Codex/Claude/Cursor/Gemini/Antigravity |
-| [upload-test-file-generator](https://github.com/outhsics/upload-test-file-generator) | Cross-platform desktop utility for QA and upload testing |
-| [ui-diff-tool](https://github.com/outhsics/ui-diff-tool) | Design-vs-implementation diff workflow with AI-readable output |
-| [TrendRadar](https://github.com/outhsics/TrendRadar) | AI-powered trend and signal monitoring platform |
-| [react-schema-form-lite](https://github.com/outhsics/react-schema-form-lite) | Lightweight schema-driven dynamic form engine |
+| [openfang-auto-clip](https://github.com/outhsics/openfang-auto-clip) | End-to-end AI clipping pipeline for long-to-short video repurposing |
+| [ai-skills-control-kit](https://github.com/outhsics/ai-skills-control-kit) | Unified skills operations across Codex/Claude/Cursor/Gemini/Antigravity |
+| [upload-test-file-generator](https://github.com/outhsics/upload-test-file-generator) | Cross-platform desktop utility delivered for QA upload testing |
+| [ui-diff-tool](https://github.com/outhsics/ui-diff-tool) | Design-vs-implementation diff workflow with AI-readable reports |
+| [TrendRadar](https://github.com/outhsics/TrendRadar) | Signal monitoring and trend intelligence automation |
+| [react-schema-form-lite](https://github.com/outhsics/react-schema-form-lite) | Reusable schema-driven dynamic form engine in React/TypeScript |
 
-## Engineering Principles
+## Engineering Signal (2026-03-02)
 
-- Build for reuse, not one-off demos
-- Prefer deterministic scripts over manual drift
-- Keep systems auditable and migration-friendly
-- Optimize for shipping speed with quality gates
+- Repository portfolio normalized: **102 total**
+- Archive-candidate backlog reduced to: **0**
+- Current focus split: **31 active / 18 maintain / 4 incubating**
+- Recruiter-facing repos now include consistent status narratives
 
-## Profile System
+## Stack
+
+`TypeScript` `Node.js` `React` `Next.js` `Electron/Tauri` `Python` `Automation` `GitHub Actions` `AI Tooling`
+
+## Open-Source Operating System
 
 - [GitHub Brand Playbook](./GITHUB_BRAND_PLAYBOOK.md)
+- [Project Index](./PROJECT_INDEX.md)
+- [Open Source Ops Guide (EN)](./OPEN_SOURCE_OPERATIONS_GUIDE.en.md)
+- [开源运营指南（中文）](./OPEN_SOURCE_OPERATIONS_GUIDE.zh-CN.md)
 - [README Status Block Template](./templates/README_STATUS_BLOCK.md)
 - [Repo Bootstrap Checklist](./templates/REPO_BOOTSTRAP_CHECKLIST.md)
-
-## 2026 Signal Upgrade
-
-- Profile repo and project narrative refreshed
-- Legacy repositories cleaned up and archived in controlled batches
-- Active repositories prioritized for clearer recruiter and collaborator signal
 
 ## Contact
 
