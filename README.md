@@ -33,13 +33,13 @@
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square" alt="Gemini">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=outhsics&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
+## Live Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=outhsics&show_icons=true&rank_icon=github&hide_border=true&title_color=0f172a&icon_color=1d4ed8&text_color=334155&bg_color=ffffff" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outhsics&layout=compact&hide_border=true&title_color=0f172a&text_color=334155&bg_color=ffffff" alt="top-langs" />
+  <img src="https://img.shields.io/github/stars/outhsics/openfang-auto-clip?style=flat-square&label=openfang-auto-clip%20stars" alt="openfang stars">
+  <img src="https://img.shields.io/github/stars/outhsics/ai-skills-control-kit?style=flat-square&label=skills-kit%20stars" alt="skills stars">
+  <img src="https://img.shields.io/github/stars/outhsics/ui-diff-tool?style=flat-square&label=ui-diff%20stars" alt="ui diff stars">
+  <img src="https://img.shields.io/github/last-commit/outhsics/outhsics?style=flat-square&label=profile%20updated" alt="profile updated">
 </p>
 
 ## Contribution Visuals
@@ -67,20 +67,14 @@ I build practical AI systems from **prototype to production**:
 
 ## Flagship Projects
 
-<p align="center">
-  <a href="https://github.com/outhsics/openfang-auto-clip"><img src="https://github-readme-stats.vercel.app/api/pin/?username=outhsics&repo=openfang-auto-clip&hide_border=true&title_color=0f172a&icon_color=1d4ed8&text_color=334155&bg_color=ffffff" alt="openfang-auto-clip"></a>
-  <a href="https://github.com/outhsics/ai-skills-control-kit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=outhsics&repo=ai-skills-control-kit&hide_border=true&title_color=0f172a&icon_color=1d4ed8&text_color=334155&bg_color=ffffff" alt="ai-skills-control-kit"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/outhsics/upload-test-file-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=outhsics&repo=upload-test-file-generator&hide_border=true&title_color=0f172a&icon_color=1d4ed8&text_color=334155&bg_color=ffffff" alt="upload-test-file-generator"></a>
-  <a href="https://github.com/outhsics/ui-diff-tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=outhsics&repo=ui-diff-tool&hide_border=true&title_color=0f172a&icon_color=1d4ed8&text_color=334155&bg_color=ffffff" alt="ui-diff-tool"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/outhsics/TrendRadar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=outhsics&repo=TrendRadar&hide_border=true&title_color=0f172a&icon_color=1d4ed8&text_color=334155&bg_color=ffffff" alt="TrendRadar"></a>
-  <a href="https://github.com/outhsics/react-schema-form-lite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=outhsics&repo=react-schema-form-lite&hide_border=true&title_color=0f172a&icon_color=1d4ed8&text_color=334155&bg_color=ffffff" alt="react-schema-form-lite"></a>
-</p>
+| Project | Visual Card |
+|---|---|
+| [openfang-auto-clip](https://github.com/outhsics/openfang-auto-clip) | ![Stars](https://img.shields.io/github/stars/outhsics/openfang-auto-clip?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/outhsics/openfang-auto-clip?style=for-the-badge) ![Updated](https://img.shields.io/github/last-commit/outhsics/openfang-auto-clip?style=for-the-badge) |
+| [ai-skills-control-kit](https://github.com/outhsics/ai-skills-control-kit) | ![Stars](https://img.shields.io/github/stars/outhsics/ai-skills-control-kit?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/outhsics/ai-skills-control-kit?style=for-the-badge) ![Updated](https://img.shields.io/github/last-commit/outhsics/ai-skills-control-kit?style=for-the-badge) |
+| [upload-test-file-generator](https://github.com/outhsics/upload-test-file-generator) | ![Stars](https://img.shields.io/github/stars/outhsics/upload-test-file-generator?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/outhsics/upload-test-file-generator?style=for-the-badge) ![Updated](https://img.shields.io/github/last-commit/outhsics/upload-test-file-generator?style=for-the-badge) |
+| [ui-diff-tool](https://github.com/outhsics/ui-diff-tool) | ![Stars](https://img.shields.io/github/stars/outhsics/ui-diff-tool?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/outhsics/ui-diff-tool?style=for-the-badge) ![Updated](https://img.shields.io/github/last-commit/outhsics/ui-diff-tool?style=for-the-badge) |
+| [TrendRadar](https://github.com/outhsics/TrendRadar) | ![Stars](https://img.shields.io/github/stars/outhsics/TrendRadar?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/outhsics/TrendRadar?style=for-the-badge) ![Updated](https://img.shields.io/github/last-commit/outhsics/TrendRadar?style=for-the-badge) |
+| [react-schema-form-lite](https://github.com/outhsics/react-schema-form-lite) | ![Stars](https://img.shields.io/github/stars/outhsics/react-schema-form-lite?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/outhsics/react-schema-form-lite?style=for-the-badge) ![Updated](https://img.shields.io/github/last-commit/outhsics/react-schema-form-lite?style=for-the-badge) |
 
 ## Engineering Signal (2026-03-02)
 
