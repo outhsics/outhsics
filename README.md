@@ -3,6 +3,10 @@
 </div>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=1D4ED8&center=true&vCenter=true&width=900&lines=AI+Product+Engineer;Multi-Agent+Automation+Systems;Shipping+Production-Grade+Developer+Tools;Building+Practical+Products+with+AI" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://github.com/outhsics"><img src="https://img.shields.io/github/followers/outhsics?style=for-the-badge&logo=github" alt="Followers"></a>
   <a href="https://github.com/outhsics?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-73-111827?style=for-the-badge&logo=github" alt="Repos"></a>
   <a href="https://github.com/outhsics"><img src="https://img.shields.io/badge/Location-Beijing%2C%20China-0ea5e9?style=for-the-badge" alt="Location"></a>
