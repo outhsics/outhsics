@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=1D4ED8&center=true&vCenter=true&width=900&lines=AI+Product+Engineer;Multi-Agent+Automation+Systems;Shipping+Production-Grade+Developer+Tools;Building+Practical+Products+with+AI" alt="Typing SVG" />
 </p>
 
+![Role](https://github.com/outhsics/outhsics/raw/main/assets/badges/role.svg)
+![Focus](https://github.com/outhsics/outhsics/raw/main/assets/badges/focus.svg)
+![Stage](https://github.com/outhsics/outhsics/raw/main/assets/badges/stage.svg)
+![Open Source](https://github.com/outhsics/outhsics/raw/main/assets/badges/open_source.svg)
+![Hiring](https://github.com/outhsics/outhsics/raw/main/assets/badges/hiring.svg)
+
 <p align="center">
   <a href="https://github.com/outhsics"><img src="https://github.com/outhsics/outhsics/raw/main/assets/badges/followers.svg" alt="Followers"></a>
   <a href="https://github.com/outhsics?tab=repositories"><img src="https://github.com/outhsics/outhsics/raw/main/assets/badges/repos.svg" alt="Repos"></a>
