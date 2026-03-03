@@ -7,52 +7,52 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/outhsics"><img src="./assets/badges/followers.svg" alt="Followers"></a>
-  <a href="https://github.com/outhsics?tab=repositories"><img src="./assets/badges/repos.svg" alt="Repos"></a>
-  <a href="https://github.com/outhsics"><img src="./assets/badges/location.svg" alt="Location"></a>
+  <a href="https://github.com/outhsics"><img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/followers.svg" alt="Followers"></a>
+  <a href="https://github.com/outhsics?tab=repositories"><img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/repos.svg" alt="Repos"></a>
+  <a href="https://github.com/outhsics"><img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/location.svg" alt="Location"></a>
 </p>
 
 <p align="center">
-  <img src="./assets/badges/role.svg" alt="Role">
-  <img src="./assets/badges/focus.svg" alt="Focus">
-  <img src="./assets/badges/stage.svg" alt="Stage">
-  <img src="./assets/badges/open_source.svg" alt="Open Source">
-  <img src="./assets/badges/hiring.svg" alt="Hiring Signal">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/role.svg" alt="Role">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/focus.svg" alt="Focus">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/stage.svg" alt="Stage">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/open_source.svg" alt="Open Source">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/hiring.svg" alt="Hiring Signal">
 </p>
 
 <p align="center">
-  <img src="./assets/badges/typescript.svg" alt="TypeScript">
-  <img src="./assets/badges/nodejs.svg" alt="Node.js">
-  <img src="./assets/badges/react.svg" alt="React">
-  <img src="./assets/badges/nextjs.svg" alt="Next.js">
-  <img src="./assets/badges/python.svg" alt="Python">
-  <img src="./assets/badges/github_actions.svg" alt="GitHub Actions">
-  <img src="./assets/badges/codex.svg" alt="Codex">
-  <img src="./assets/badges/claude.svg" alt="Claude">
-  <img src="./assets/badges/cursor.svg" alt="Cursor">
-  <img src="./assets/badges/gemini.svg" alt="Gemini">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/typescript.svg" alt="TypeScript">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/nodejs.svg" alt="Node.js">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/react.svg" alt="React">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/nextjs.svg" alt="Next.js">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/python.svg" alt="Python">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/github_actions.svg" alt="GitHub Actions">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/codex.svg" alt="Codex">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/claude.svg" alt="Claude">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/cursor.svg" alt="Cursor">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/gemini.svg" alt="Gemini">
 </p>
 
 ## Live Metrics
 
 <p align="center">
-  <img src="./assets/badges/portfolio.svg" alt="Portfolio">
-  <img src="./assets/badges/active.svg" alt="Active">
-  <img src="./assets/badges/maintain.svg" alt="Maintain">
-  <img src="./assets/badges/updated.svg" alt="Updated">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/portfolio.svg" alt="Portfolio">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/active.svg" alt="Active">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/maintain.svg" alt="Maintain">
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/assets/badges/updated.svg" alt="Updated">
 </p>
 
 ## Contribution Visuals
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution" />
+  <img src="https://raw.githubusercontent.com/outhsics/outhsics/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-snake-contrib/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-snake-contrib/github-snake.svg" />
-    <img alt="github contribution snake" src="./profile-snake-contrib/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/outhsics/outhsics/main/profile-snake-contrib/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/outhsics/outhsics/main/profile-snake-contrib/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/outhsics/outhsics/main/profile-snake-contrib/github-snake.svg" />
   </picture>
 </p>
 
