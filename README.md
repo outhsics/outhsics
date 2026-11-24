@@ -15,7 +15,7 @@
 
 ## About Me · 个人简介
 
-Hi, I'm **Terre (海二旺)** — a **Shenzhen-based Senior Frontend & Full-Stack Engineer (8+ years)** and **AI Product Builder**.
+Hi, I'm **Terre** — a **Shenzhen-based Senior Frontend & Full-Stack Engineer (8+ years)** and **AI Product Builder**.
 
 - **Personal Website / 个人作品主页**：👉 **[https://aaoi.cc.cd](https://aaoi.cc.cd)**（在线履历、代表项目与工具入口）
 - **Core Expertise / 核心方向**：
