@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Terre&fontAlign=50&fontAlignY=35&color=0:0f172a,50:1d4ed8,100:0ea5e9&fontColor=ffffff&desc=Senior%20Frontend%20%26%20Full-Stack%20Engineer%20%7C%20Cross-Platform%20%7C%20AI%20Builder&descAlign=50&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Terre&fontAlign=50&fontAlignY=35&color=0:0f172a,50:1d4ed8,100:0ea5e9&fontColor=ffffff&desc=Full-Stack%20Engineer%20%26%20AI%20Product%20Builder&descAlign=50&descAlignY=55" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=1D4ED8&center=true&vCenter=true&width=900&lines=9%2B+Years+Frontend+%26+Full-Stack+Engineer;Vue+3+%2F+React+%2F+TypeScript+%2F+Node.js+%2F+Cloudflare+Workers;AI+Workflow+%26+Multi-Agent+Automation+Builder;Visit+My+Portfolio%3A+https%3A%2F%2Faaoi.cc.cd" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=1D4ED8&center=true&vCenter=true&width=900&lines=9+Years+Building+Web+%26+Cross-Platform+Products;Shipping+Practical+AI+Workflows+%26+Edge+Apps;Portfolio+%26+Notes%3A+https%3A%2F%2Faaoi.cc.cd" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,16 +13,16 @@
   <a href="mailto:outhsics@gmail.com"><img src="https://img.shields.io/badge/Email-outhsics%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-## About Me · 个人简介
+## About Me
 
-Hi, I'm **Terre** — a **Shenzhen-based Senior Frontend & Full-Stack Engineer (9+ years)** and **AI Product Builder**.
+Hi, I'm **Terre** — a Shenzhen-based software engineer (**9 years**) focused on shipping reliable web products, cross-platform apps, and practical AI engineering workflows.
 
-- **Personal Website / 个人作品主页**：👉 **[https://aaoi.cc.cd](https://aaoi.cc.cd)**（在线履历、代表项目与工具入口）
-- **Core Expertise / 核心方向**：
-  - **Frontend & Web Architecture**：Vue 3 / React / TypeScript / Next.js / Nuxt.js（SSR）、微前端（qiankun）、Core Web Vitals 性能优化、多语言 `i18n` 与独立站建站（Shopify OS 2.0 / Strapi CMS）。
-  - **Full-Stack & Cross-Platform**：Node.js / Hono / Cloudflare Workers & D1、Java Spring Cloud / MySQL 8、微信小程序 / uni-app / Taro / React Native、复杂 B2B 交易结算与配置化动态表单。
-  - **AI Engineering & Automation**：多 Agent 工程工作流、内容/自媒体自动化流水线（[声稿工坊](https://studio.aaoi.cc.cd)）、Skills & MCP 工具治理。
-- **Status / 当前状态**：现居深圳，开放 **前端 / 全栈开发与 AI 应用工程** 全职及合作机会。
+- **Portfolio & Writing**：[aaoi.cc.cd](https://aaoi.cc.cd)
+- **What I Do**：
+  - **Web & Cross-Platform Engineering**：9 年商业官网、复杂中后台与多端产品研发经验，重视首屏性能、业务抽象与长期可维护性。
+  - **End-to-End Product Delivery**：习惯从需求拆解、全栈开发到边缘部署与线上排障独立闭环，持续打磨个人产品矩阵与效率工具（[声稿工坊](https://studio.aaoi.cc.cd) 等）。
+  - **Practical AI Workflows**：围绕真实业务落地多 Agent 协作、MCP 工具链与端到端自动化回归，坚持交付真实可用的系统而非概念演示。
+- **Now**：现居深圳，开放前端 / 全栈与 AI 应用工程全职及合作机会。
 
 <p align="center">
   <img src="https://github.com/outhsics/outhsics/raw/main/assets/badges/role.svg" alt="Role">
