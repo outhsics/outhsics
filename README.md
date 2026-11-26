@@ -1,28 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Terre&fontAlign=50&fontAlignY=35&color=0:0f172a,50:1d4ed8,100:0ea5e9&fontColor=ffffff&desc=Full-Stack%20Engineer%20%26%20AI%20Product%20Builder&descAlign=50&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Terre&fontAlign=50&fontAlignY=35&color=0:0f172a,50:1d4ed8,100:0ea5e9&fontColor=ffffff&desc=AI%20Product%20Engineer%20%7C%20Multi-agent%20Automation%20%7C%20Production-grade%20Tools&descAlign=50&descAlignY=55" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=1D4ED8&center=true&vCenter=true&width=900&lines=9+Years+Building+Web+%26+Cross-Platform+Products;Shipping+Practical+AI+Workflows+%26+Edge+Apps;Portfolio+%26+Notes%3A+https%3A%2F%2Faaoi.cc.cd" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=1D4ED8&center=true&vCenter=true&width=900&lines=AI+Product+Engineer;Multi-Agent+Automation+Systems;Shipping+Production-Grade+Developer+Tools;Building+Practical+Products+with+AI" alt="Typing SVG" />
 </p>
+
+![Role](https://github.com/outhsics/outhsics/raw/main/assets/badges/role.svg)
+![Focus](https://github.com/outhsics/outhsics/raw/main/assets/badges/focus.svg)
+![Stage](https://github.com/outhsics/outhsics/raw/main/assets/badges/stage.svg)
+![Open Source](https://github.com/outhsics/outhsics/raw/main/assets/badges/open_source.svg)
+![Hiring](https://github.com/outhsics/outhsics/raw/main/assets/badges/hiring.svg)
 
 <p align="center">
-  <a href="https://aaoi.cc.cd"><img src="https://img.shields.io/badge/Personal%20Website-aaoi.cc.cd-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website"></a>
   <a href="https://github.com/outhsics"><img src="https://github.com/outhsics/outhsics/raw/main/assets/badges/followers.svg" alt="Followers"></a>
   <a href="https://github.com/outhsics?tab=repositories"><img src="https://github.com/outhsics/outhsics/raw/main/assets/badges/repos.svg" alt="Repos"></a>
-  <a href="mailto:outhsics@gmail.com"><img src="https://img.shields.io/badge/Email-outhsics%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/outhsics"><img src="https://github.com/outhsics/outhsics/raw/main/assets/badges/location.svg" alt="Location"></a>
 </p>
-
-## About Me
-
-Hi, I'm **Terre** — a Shenzhen-based software engineer (**9 years**) focused on shipping reliable web products, cross-platform apps, and practical AI engineering workflows.
-
-- **Portfolio & Writing**：[aaoi.cc.cd](https://aaoi.cc.cd)
-- **What I Do**：
-  - **Web & Cross-Platform Engineering**：9 年商业官网、复杂中后台与多端产品研发经验，重视首屏性能、业务抽象与长期可维护性。
-  - **End-to-End Product Delivery**：习惯从需求拆解、全栈开发到边缘部署与线上排障独立闭环，持续打磨个人产品矩阵与效率工具（[声稿工坊](https://studio.aaoi.cc.cd) 等）。
-  - **Practical AI Workflows**：围绕真实业务落地多 Agent 协作、MCP 工具链与端到端自动化回归，坚持交付真实可用的系统而非概念演示。
-- **Now**：现居深圳，开放前端 / 全栈与 AI 应用工程全职及合作机会。
 
 <p align="center">
   <img src="https://github.com/outhsics/outhsics/raw/main/assets/badges/role.svg" alt="Role">
@@ -68,11 +62,19 @@ Hi, I'm **Terre** — a Shenzhen-based software engineer (**9 years**) focused o
   </picture>
 </p>
 
+## Positioning
+
+I build practical AI systems from **prototype to production**:
+
+- Multi-agent engineering workflow and skills governance
+- Content/media automation pipelines with delivery loops
+- Productized developer tools with operational visibility
+- Reliability-first delivery: reproducible scripts, maintainable architecture, and measurable outcomes
+
 ## Flagship Projects
 
 | Project | Visual Card |
 |---|---|
-| [Terre Portfolio (aaoi.cc.cd)](https://aaoi.cc.cd) | ![Live](https://img.shields.io/badge/Live-aaoi.cc.cd-2563EB?style=for-the-badge) ![Focus](https://img.shields.io/badge/Full--Stack_%26_AI-0F172A?style=for-the-badge) |
 | [openfang-auto-clip](https://github.com/outhsics/openfang-auto-clip) | ![Stars](https://img.shields.io/github/stars/outhsics/openfang-auto-clip?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/outhsics/openfang-auto-clip?style=for-the-badge) ![Updated](https://img.shields.io/github/last-commit/outhsics/openfang-auto-clip?style=for-the-badge) |
 | [ai-skills-control-kit](https://github.com/outhsics/ai-skills-control-kit) | ![Stars](https://img.shields.io/github/stars/outhsics/ai-skills-control-kit?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/outhsics/ai-skills-control-kit?style=for-the-badge) ![Updated](https://img.shields.io/github/last-commit/outhsics/ai-skills-control-kit?style=for-the-badge) |
 | [upload-test-file-generator](https://github.com/outhsics/upload-test-file-generator) | ![Stars](https://img.shields.io/github/stars/outhsics/upload-test-file-generator?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/outhsics/upload-test-file-generator?style=for-the-badge) ![Updated](https://img.shields.io/github/last-commit/outhsics/upload-test-file-generator?style=for-the-badge) |
@@ -80,9 +82,16 @@ Hi, I'm **Terre** — a Shenzhen-based software engineer (**9 years**) focused o
 | [TrendRadar](https://github.com/outhsics/TrendRadar) | ![Stars](https://img.shields.io/github/stars/outhsics/TrendRadar?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/outhsics/TrendRadar?style=for-the-badge) ![Updated](https://img.shields.io/github/last-commit/outhsics/TrendRadar?style=for-the-badge) |
 | [react-schema-form-lite](https://github.com/outhsics/react-schema-form-lite) | ![Stars](https://img.shields.io/github/stars/outhsics/react-schema-form-lite?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/outhsics/react-schema-form-lite?style=for-the-badge) ![Updated](https://img.shields.io/github/last-commit/outhsics/react-schema-form-lite?style=for-the-badge) |
 
+## Engineering Signal (2026-03-02)
+
+- Repository portfolio normalized: **102 total**
+- Archive-candidate backlog reduced to: **0**
+- Current focus split: **31 active / 18 maintain / 4 incubating**
+- Recruiter-facing repos now include consistent status narratives
+
 ## Stack
 
-`TypeScript` `React` `Vue` `Next.js` `Nuxt.js` `Shopify Online Store 2.0 / Liquid` `Node.js` `Cloudflare Workers` `GTM / GA4` `Python` `GitHub Actions` `AI Tooling`
+`TypeScript` `Node.js` `React` `Next.js` `Electron/Tauri` `Python` `Automation` `GitHub Actions` `AI Tooling`
 
 ## Open-Source Operating System
 
@@ -95,6 +104,5 @@ Hi, I'm **Terre** — a Shenzhen-based software engineer (**9 years**) focused o
 
 ## Contact
 
-- Personal Website: [https://aaoi.cc.cd](https://aaoi.cc.cd)
 - GitHub: [@outhsics](https://github.com/outhsics)
 - Email: `outhsics@gmail.com`
